@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://andreslamar.github.io/Social-links/)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-link-H9_-AtJKp5)
+- [Live Site](https://andreslamar.github.io/Social-links/)
 
 ## My process
 
